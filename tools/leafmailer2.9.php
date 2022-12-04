@@ -4,7 +4,7 @@
  * @version : 2.8
 **/
 
-$password = "MadiGanzZz"; // Password 
+$password = "v3n0m"; // Password 
 
 
 
